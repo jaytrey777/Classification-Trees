@@ -1,4 +1,4 @@
-# Classification Trees (Practice Exercise)
+# Classification Trees
 
 This practice assignment will reinforce important learning objectives, and allow you to take on more challenging core assignments.
 
